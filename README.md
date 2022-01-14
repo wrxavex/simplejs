@@ -1,6 +1,6 @@
 # simplejs
 
-<!DOCTYPE html>
+
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
@@ -11,7 +11,7 @@
 <body>
 <!-- partial:index.partial.html -->
 <h1> 18啦 - HTML UI 版</h1>
-<h3>遊戲結果：<span id="winner">XXX</span>勝利</span></h3>
+<h3>遊戲結果：<span id="winner">XXX</span>勝利</h3>
 
 <table>
   <tr>
@@ -29,4 +29,3 @@
   <script  src="./script.js"></script>
 
 </body>
-</html>
